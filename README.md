@@ -1,6 +1,6 @@
 # FairShareFinancial
 
-Team Members:Laksha Arora, Kamya Arora, Annie Li, and Sameeraa Kandalgaonkar
+Team Members: Laksha Arora, Kamya Arora, Annie Li, and Sameeraa Kandalgaonkar
 
 At Fidelity, Diversity, Equity, and Inclusion are viewed as major keys to the success of our business, 
 which is why we are challenging you to come up with innovative ways to create forward-thinking financial tech that promotes equality for all people! 
