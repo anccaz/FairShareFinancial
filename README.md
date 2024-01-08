@@ -2,7 +2,7 @@
 
 Team Members: Laksha Arora, Kamya Arora, Annie Li, and Sameeraa Kandalgaonkar
 
-At Fidelity, Diversity, Equity, and Inclusion are viewed as major keys to the success of our business, 
+At Fidelity, diversity, equity, and inclusion are viewed as major keys to the success of our business, 
 which is why we are challenging you to come up with innovative ways to create forward-thinking financial tech that promotes equality for all people! 
 We want you to use your hacking skills to find and build solutions that put financial opportunities and resources within reach for all communities,
 creating accessible, sustainable, and/or inclusive solutions.
